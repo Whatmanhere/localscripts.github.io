@@ -285,6 +285,17 @@
         "lastEditedBy": "Console",
         "lastEditedByImage": "assets/unverified.png",
         "warning": true
+        
+        "name": "Solaris",
+        "pros": ["Free to use", "100 sunc", "Keyless"],
+        "neutral": ["Level 3"],
+        "cons": ["Safety is not verified by voxlis.NET", "Not verified by voxlis.NET"],
+        "link": "https://loot-link.com/s?471fa603",
+        "buttonText": "FREE",
+        "types": ["windows"],
+        "lastEditedBy": "whatman",
+        "lastEditedByImage": "assets/unverified.png",
+        "warning": true
     },
     {
         "name": "Ratware",
